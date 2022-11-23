@@ -13,8 +13,7 @@ namespace LejeuneLab2
     public partial class frmGregLab : Form
     {
         /* Gregory Lejuene, October 3rd 2022
-        The purpose of this lab is to demonstrate knowledge on adding lables, text boxes, picture boxes, and formatting. 
-        We're also doing basic math calculations and letting Cathy know a bit about ourselves! 
+        The purpose of this lab is to flex the git muscle!
         */
         public frmGregLab()
         {
